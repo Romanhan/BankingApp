@@ -1,2 +1,4 @@
 # Banking app
-#### Banking app with web interface on Spring, with H2
+#### Banking app on Spring, with H2
+
+I used Spring Boot 3, Spring Data JPA(Hibernate), H2 and REST API.
